@@ -1,4 +1,4 @@
-name := "$name$"
+name := "Test app"
  
 scalaVersion := "2.9.0-1"
  
